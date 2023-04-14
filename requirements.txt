@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+folium
+wordcloud
+logging
+sys
+pathlib2
+scikit-learn
+imbalanced-learn
+pytorch
+FastBert
+apex
